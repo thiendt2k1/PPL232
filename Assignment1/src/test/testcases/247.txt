@@ -1,0 +1,8 @@
+func Arr(string &a, string &b)
+            func main ()
+            begin
+                string a[5] <- ["a","b","c","d","e"]
+                string b[5] <- ["a","b","c","d","f"]
+            Arr(a,b)
+            end
+            

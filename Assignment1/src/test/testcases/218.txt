@@ -1,0 +1,6 @@
+ func Rectangle()
+        return true
+                    func main() begin
+                    return false
+                    end
+                    

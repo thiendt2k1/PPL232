@@ -1,0 +1,9 @@
+func main ()
+            begin
+                number x <- 3
+                number y <- 2
+                if (x < y or (x%y <= 2)) return true
+                elif (x == y) return true
+                else return false
+            end
+            

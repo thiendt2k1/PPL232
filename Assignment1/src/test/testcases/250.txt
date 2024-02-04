@@ -1,0 +1,8 @@
+ func Arr(number &a, bool &b)
+            func main ()
+            begin
+             number a[5] <- [1,5,9,4,3]
+             bool b[5] <- [true,false,false,true,false]
+             Arr(a,b)
+            end
+            

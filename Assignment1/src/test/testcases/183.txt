@@ -1,0 +1,1 @@
+var str = "Escape Sequences: \t \n \r \" \' \\"

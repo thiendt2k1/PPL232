@@ -1,0 +1,5 @@
+  func Program(string a)
+        func main() begin
+        a <- "string"
+        end
+        

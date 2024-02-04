@@ -1,0 +1,2 @@
+func of(number x)
+        func main() return x

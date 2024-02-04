@@ -1,0 +1,5 @@
+ func Rectangle(number x)
+                    func Program (string y)
+                    func main()
+                    func Square(number z)
+                    

@@ -1,0 +1,12 @@
+ func main()
+        begin
+                    number a1[5] <- [1,2,3,4,5]
+                    a <- a1[0]
+                    b <- 10
+                    getArea(a,b)
+        end
+        func getArea(number a, number b)
+        begin
+            return a*b
+        end
+                

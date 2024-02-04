@@ -1,0 +1,11 @@
+func main()
+        begin
+                    a <- 2
+                    b <- 2
+                    getArea(a,b)
+        end
+        func getArea(number a, number b)
+        begin
+            return a*b
+        end
+                

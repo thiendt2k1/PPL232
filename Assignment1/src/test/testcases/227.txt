@@ -1,0 +1,9 @@
+ func Rectangle()
+        begin
+                        number a <- 0.1 
+                        number b <- 5 * 3 + 12 - 19 + 4
+                        getArea(a,b)
+                        inPrime(a,b)
+        end
+        func main()
+        

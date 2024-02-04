@@ -1,0 +1,7 @@
+ func main()
+        begin
+        bool a <- true
+        number b <- 24 
+        if ((b > 15) == a)
+                   a <- 1.01
+        end

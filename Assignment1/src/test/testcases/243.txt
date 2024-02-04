@@ -1,0 +1,8 @@
+  func main()
+        begin
+        string a <- "b"
+        string b <- "a" 
+        if (b != a)
+            return a
+        end
+        

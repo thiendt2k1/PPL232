@@ -1,0 +1,6 @@
+func S():
+                    var s <- "No multiple inheritance";
+                    Return False;
+                } 
+            }
+        

@@ -1,0 +1,8 @@
+ func Arr(number &a, number &b)
+            func main ()
+            begin
+             number a[5] <- [1,5,9,4,3]
+             number b[5] <- [9,7,6,3,8]
+             Arr(a,b)
+            end
+            

@@ -1,0 +1,8 @@
+func main ()
+            begin
+                var i <- 0
+                for i until i >= 8 by 1
+                    if (i == 4) continue
+                else return i
+            end
+        

@@ -1,0 +1,8 @@
+ func main ()
+            begin
+                number x <- 0
+                number y <- 1
+                if (x < y)
+                    break
+            end
+                

@@ -1,0 +1,9 @@
+ func Rectangle()
+                    begin
+                        return simpleExpresion()
+                    end
+                    func main() begin
+                        number r <- Rectangle()
+                        return complexExpression(r)
+                    end
+                    

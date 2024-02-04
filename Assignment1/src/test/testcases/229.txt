@@ -1,0 +1,7 @@
+ func A()
+                    begin
+                            set(number a, number b) 
+                            afoo()
+                    end
+                    func main()
+                

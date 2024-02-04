@@ -1,0 +1,10 @@
+ func Rectangle()
+                    begin
+                        string a[1] <- ["a"]
+                        return a[1]
+                    end
+                    func main() begin
+                        string temp <- Rectangle() 
+                        return complexExpression(temp)
+                    end
+                    

@@ -1,0 +1,5 @@
+ func main() begin
+            number num1 <- 0
+            bool b <- true
+        end
+        

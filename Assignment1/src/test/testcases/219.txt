@@ -1,0 +1,9 @@
+ func Rectangle(number i)
+                    begin
+                        number i <- i*3
+                        return i
+                    end
+                    func main() begin
+                        add(i)
+                    end
+                    

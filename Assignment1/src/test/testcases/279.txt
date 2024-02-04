@@ -1,0 +1,9 @@
+func main ()
+            begin
+                var i <- readNumber()
+                var x <- readNumber()
+                for i until i%x <= 3 by 1
+                    if (i == 4) writeString("a")
+                else writeString("b")
+            end
+            

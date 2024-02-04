@@ -1,0 +1,7 @@
+ func main ()
+            begin
+                bool x <- true
+                bool y <- false
+                if ((not x) == y) return true
+            end
+        

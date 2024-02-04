@@ -1,0 +1,1 @@
+func,multiply,(,a,,,b,),{,return,a,*,b,},<EOF>

@@ -1,0 +1,9 @@
+func main()
+        begin
+                    if (0==0 and (0!=1) or (1 >= (2*(3+4))) or (not 4)) a <- (5+ (4*8) + 10)
+                    elif (b == true) b <- false
+                    else b <- false
+                        return true
+                    return false
+        end
+        

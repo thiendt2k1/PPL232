@@ -1,0 +1,9 @@
+ func main ()
+            begin
+                number x <- 0
+                number y <- 1
+                if (x < y and (x+y >= 1)) return true
+                elif (x+y > 2) return false
+                else return false
+            end
+                

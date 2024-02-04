@@ -1,0 +1,8 @@
+ func main()
+        begin
+        number a <- 531.2e5
+        number b <- 24.1 
+        if (2 > a and (b <= 1))
+                   a <- 1.01
+        end
+        

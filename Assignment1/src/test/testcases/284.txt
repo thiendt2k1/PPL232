@@ -1,0 +1,8 @@
+func main ()
+            begin
+                var i <- readBool()
+                var x <- readBool()
+                if ((x != i)) writeBool(false)
+                else writeBool(true)
+            end
+            
